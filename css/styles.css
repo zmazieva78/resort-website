@@ -1,0 +1,28 @@
+header {
+  text-align: center;
+  background: -webkit-linear-gradient(#dc143c, #333);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 45px;
+  margin-top: 30px;
+  font-family: monospace;
+
+}
+
+ body {
+   text-align: center;
+   background-color: #e9967a;
+   background-size: cover;
+
+ }
+
+h3 {
+  font-size: 35px;
+  color: #dc143c;
+  font-family: monospace;
+}
+
+img {
+  width: 600px;
+  height: auto;
+}
