@@ -1,0 +1,32 @@
+header {
+  text-align: center;
+  *background-image: url("../img/resort.jpg");
+  *background-size: contain;
+  *height: 150px;
+  *background-repeat: no-repeat;
+  *background-position: center;
+  *background-color: #00bfff;
+  color: #add8e6;
+  font-size: 35px;
+  margin-top: 20px;
+  font-family: fantasy;
+
+}
+
+ body {
+   text-align: center;
+   background-image: url("../img/backgroung.jpg");
+   background-size: cover;
+
+ }
+
+h3 {
+  font-size: 25px;
+  color: white;
+  font-family: fantasy;
+}
+
+img {
+  width: 400px;
+  height: auto;
+}
